@@ -128,5 +128,6 @@
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/0178-rank-scores) |
+| [0196-delete-duplicate-emails](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
 
