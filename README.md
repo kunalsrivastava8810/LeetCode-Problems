@@ -124,5 +124,9 @@
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
 
