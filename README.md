@@ -129,5 +129,6 @@
 | ------- |
 | [0178-rank-scores](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/0178-rank-scores) |
 | [0196-delete-duplicate-emails](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/0196-delete-duplicate-emails) |
+| [1795-rearrange-products-table](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/1795-rearrange-products-table) |
 <!---LeetCode Topics End-->
 
