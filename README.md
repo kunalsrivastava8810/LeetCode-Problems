@@ -6,6 +6,7 @@
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -17,6 +18,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -33,6 +35,7 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
