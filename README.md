@@ -25,6 +25,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
