@@ -45,6 +45,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -248,6 +249,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/kunalsrivastava8810/LeetCode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
